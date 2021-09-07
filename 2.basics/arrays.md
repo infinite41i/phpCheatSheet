@@ -11,3 +11,6 @@ There are two types of arrays in PHP:
 ```php
 array_key_exists($key, $array);
 ```
+## common functions
+### count (array length)
+`count($array);` will return length of array.
